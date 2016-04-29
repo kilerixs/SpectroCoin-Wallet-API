@@ -1,0 +1,1 @@
+# SpectroCoin-Wallet-API
